@@ -6,7 +6,7 @@ This project can be used purely for educational purposes.
 
 ### Home Page
 
-![Home](https://user-images.githubusercontent.com/64526349/178796454-044e8356-38cf-4e88-80a9-395b84b877a9.jpg)
+![Home](https://user-images.githubusercontent.com/64526349/178801274-76887d0d-7e31-4d9f-8e9b-2bd386064e84.jpg)
 
 ### Shiva
 
